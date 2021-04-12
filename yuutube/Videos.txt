@@ -1,0 +1,7 @@
+C:\\Users\\hp\\Desktop\\JoynerLucas-Will.mp4 , will , 10 , 0 , 1 , 1
+C:\\Users\\hp\\Desktop\\J.Cole-Love_Yourz.mp4 , loveYourz , 8 , 1 , 0 , 0
+C:\\Users\\hp\\Desktop\\Eminem_NotAfraid.mp4 , notAfriad , 6 , 1 , 0 , 1
+C:\\Users\\hp\\Desktop\\Alan_Walker_Faded.mp4 , faded , 4 , 0 , 0 , 0
+C:\\Users\\hp\\Desktop\\doYou.mp4 , doYou , 3 , 1 , 0 , 0
+C:\\Users\\hp\\Desktop\\EdSheeran-TakeMeBackToLondon.mp4 , takeMeBackToLondon , 0 , 0 , 0 , 0
+C:\\Users\\hp\\Desktop\\BillieEilish-everythingIWanted.mp4 , everythingIWanted , 0 , 0 , 0 , 0
